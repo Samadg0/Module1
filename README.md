@@ -1,6 +1,6 @@
 # Polygon-Advanced-Module-1
 
-In this project on Polygon-Advance,  I deployed NFTs on the Ethereum Goerli network. Then, I approved and finally deposited from Ethereum to Polygon using  the Polygon Bridge.
+In this project on Polygon,  I deployed NFTs on the Ethereum Goerli network. Then, I approved and finally deposited from Ethereum to Polygon using  the Polygon Bridge.
 
 ## Getting Started
 
